@@ -131,7 +131,7 @@ DSC AIT brings you an opportunity to do a single PR in our repository
 
 **Here's our github repo: [GDSC AIT Website](https://github.com/DSC-AIT-Pune/gdsc-ait-website)**
 
-[![GDSC AIT WEBSITE](assets\gdsc-ait-website.PNG)](https://github.com/vinitshahdeo/inspirational-quotes)
+[![GDSC AIT WEBSITE](./assets/gdsc-ait-website.PNG)](https://github.com/DSC-AIT-Pune/gdsc-ait-website)
 
 ## Contributing
 
