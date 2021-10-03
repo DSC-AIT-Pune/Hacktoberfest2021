@@ -6,6 +6,10 @@
 > ### Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 <br>
 
+## Link for content : [Step into Github (content) ](https://whimsical.com/gitbranches-3DP5Hsv3VZbybWcQ4mP6NR)
+
+<br>
+
 ### AIT Repositories participating in Hacktoberfest
 
 | Repo Name  | Maintainer | Repo Link   |
